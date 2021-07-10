@@ -1,7 +1,7 @@
 
 .catelog {
     display:flex;
-  overflow-x: scroll;
+  overflow-x: scroll,hidden;
   overflow-y:hidden;
     width:100%;
     float: left;

@@ -1,10 +1,181 @@
-
 .item_style {
-    display:flex;
+  display: flex;
   overflow-x: scroll;
-  overflow-y:hidden;
-    width:100%;
-    float: left;
-    height:500px;
-    position:relative;
-  }
+  overflow-y: hidden;
+  width: 100%;
+  float: left;
+  height: 400px;
+  position: relative;
+}
+.astext {
+  background: none;
+  border: none;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}
+.faqs {
+  width: 60%;
+  margin: 100px;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #eee;
+  padding: 16px;
+  text-align: center;
+}
+.orders {
+  width: 80%;
+  margin: 50px;
+  margin-left: 10%;
+  border: 3px solid #eee;
+  box-shadow: 0 3px 3px #eee;
+  text-align: center;
+  padding: 20px;
+}
+.split2 {
+  height: 100%;
+  width: 75%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 10px;
+}
+.split1 {
+  height: 100%;
+  width: 25%;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+}
+/* Control the left side */
+.left {
+  left: 0;
+}
+
+/* Control the right side */
+.right {
+  right: 0;
+  margin-top: 80px;
+}
+
+/* If you want the content centered horizontally and vertically */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+/* Style the image inside the centered container, if needed */
+.centered img {
+  width: 150px;
+  border-radius: 50%;
+}
+.user1 {
+  padding-top: 500px;
+}
+.user {
+  margin-bottom: 50px;
+  margin-left: 30px;
+}
+.a {
+  margin-left: 200px;
+}
+.b {
+  margin-left: 20px;
+}
+.font {
+  font-size: 14px;
+}
+.loginDiv {
+  display: block;
+}
+.loggerDiv {
+  display: none;
+}
+.item_style1 {
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  width: 100%;
+  float: left;
+  height: 450px;
+  position: relative;
+}
+.cart_style {
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  width: 100%;
+  float: left;
+  position: relative;
+}
+.item_flex {
+  display: table;
+}
+.manage {
+  margin-left: 1000px;
+  height: 20px;
+}
+.div_height {
+  height: 600px;
+}
+.textDec {
+  margin-top: 6px;
+  height: 30px;
+  width: 450px;
+  border: black;
+  background-color: #b793f7;
+}
+
+.col {
+  color: red;
+}
+.but {
+  right: 10px;
+  top: 10px;
+}
+.split {
+  height: 100%;
+  width: 50%;
+  position: relative;
+  z-index: 1;
+  top: 40;
+  padding-top: 20px;
+}
+
+/* Control the left side */
+.left {
+  left: 0;
+  position: relative;
+}
+
+/* Control the right side */
+.right {
+  right: 0;
+}
+
+/* If you want the content centered horizontally and vertically */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+/* Style the image inside the centered container, if needed */
+.centered img {
+  width: 150px;
+  border-radius: 50%;
+}
+.badge {
+  font-size: 12px;
+  background: #ff0000;
+  color: #fff;
+  padding: 0 5px;
+  border-radius: 100%;
+  vertical-align: top;
+}

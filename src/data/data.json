@@ -1,0 +1,122 @@
+
+{
+   "Sugar": {
+        "name": "Sugar",
+        "price": 30,
+        "No":1,
+        "quantity": 1,
+        "img":"./sugar.jpg",
+        "desc":"1kg packets",
+        "location":"kandukur"
+    },
+    "RockSalt":{
+        "name": "RockSalt",
+        "price": 22,
+        "No":2,
+        "quantity": 1,
+        "img":"./rockSalt.jpg",
+        "desc":"1kg packets",
+        "location":"kandukur"
+
+    },
+    "Almonds":{
+        "name": "Almonds",
+        "price": 30,
+        "No":3,
+        "quantity": 1,
+        "img":"./Almonds.jpg",
+        "desc":"100g packets",
+        "location":"kandukur"
+
+    },
+    "Aashirvaad Salt":{
+        "name": "Aashirvaad Salt",
+        "price": 20,
+        "No":4,
+        "quantity": 1,
+        "img":"./AashirvaadSalt.jpg",
+        "desc":"1kg packets",
+        "location":"kandukur"
+
+    },
+    "Aashirvaad Sharbati Aata":{
+        "name": "Aashirvaad Sharbati Aata",
+        "price": 120,
+        "No":5,
+        "quantity": 1,
+        "img":"./AashirvaadSharbatiAata.jpeg",
+        "desc":"1kg packets",
+        "location":"kandukur"
+
+    },
+    "Bengal gram":{
+        "name": "Bengal gram",
+        "price": 45,
+        "No":6,
+        "quantity": 1,
+        "img":"./bengalGram.jpg",
+        "desc":"1kg packets",
+        "location":"kandukur"
+
+    },
+    "Cashew":{
+        "name": "Cashew",
+        "price": 98,
+        "No":7,
+        "quantity": 1,
+        "img":"./Cashew.jpg",
+        "desc":"100g packets",
+        "location":"kandukur"
+
+    },
+    "coriander powder":{
+        "name": "coriander powder",
+        "price": 23,
+        "No":8,
+        "quantity": 1,
+        "img":"./corianderPowder.jpg",
+        "desc":"100g packets",
+        "location":"kandukur"
+
+    },
+    "kismis": {
+        "name": "kismis",
+        "price": 28,
+        "No":9,
+        "quantity": 1,
+        "img":"./kismis.jpg",
+        "desc":"50g packets",
+        "location":"kandukur"
+
+    },
+    "Moong dal":{
+        "name": "Moong dal",
+        "price": 36,
+        "No":10,
+        "quantity": 1,
+        "img":"./moongDal.jpg",
+        "desc":"500g packets",
+        "location":"kandukur"
+
+    },
+    "Onions":{
+        "name": "Onions",
+        "price": 27,
+        "No":11,
+        "quantity": 1,
+        "img":"./onions.jpeg",
+        "desc":"1kg packets",
+        "location":"kandukur"
+
+    },
+    "toor dal":{
+        "name": "toor dal",
+        "price": 82,
+        "No":12,
+        "quantity": 1,
+        "img":"./toorDal.jpg",
+        "desc":"1kg packets",
+        "location":"kandukur"
+
+    }
+}

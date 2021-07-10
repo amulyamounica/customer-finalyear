@@ -1,10 +1,25 @@
 @media all and (min-width: 480px) {
-    .Login {
-      padding: 60px 0;
-    }
-  
-    .Login form {
-      margin: 0 auto;
-      max-width: 320px;
-    }
+  .Login {
+    padding: 0px 0;
+    padding-right: 470px;
+    padding-left: 470px;
   }
+  .sign {
+    margin-right: 200px;
+  }
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+  .para {
+    color: red;
+  }
+  .password {
+    background-image: url("https://img.icons8.com/material-sharp/20/000000/visible.png");
+    background-position: 97% center;
+    background-repeat: no-repeat;
+  }
+  .password.visible {
+    background-image: url("https://img.icons8.com/material-outlined/20/000000/invisible.png");
+  }
+}

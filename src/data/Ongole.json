@@ -1,0 +1,18 @@
+{
+    "UDAY":{
+        "name" : "Uday Grocery",
+        "desc": "One Place for all Groceries with Reasonable Price..Home Delivery and Online App Available..For Home Delivery Contact : 9577 33 6677",
+        "img":"/ong_img1.jpg"
+    },
+    "BEST":{
+        "name" : "Best Mart",
+        "desc": "One stop destination for all your needs.. Affordable Price.. Home Delivery and Online App Available..For Home Delivery Contact : 9668 35 7237",
+        "img":"/ong_img2.jpg"
+    },
+   "dmart": {
+        "name" : "DMart Super Market",
+        "desc": "DMart whole sale super market having 10000 sft biggest super market in whole sale price in mangalagiri and 15000+ products are available",
+        "img":"/ong_img3.jpg"
+    }
+
+}

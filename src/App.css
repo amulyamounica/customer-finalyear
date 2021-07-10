@@ -2,10 +2,23 @@
   text-align: center;
 }
 
-.App-h1{
-  background-color: #9575CD;
+.App-h1 {
+  background-color: #b793f7;
+  text-decoration-color: black;
+  margin-bottom: 40px;
 }
-
+.drop {
+  top: 0%;
+  margin: 0px;
+}
+.navH {
+  margin-bottom: 100px;
+  align-items: flex-start;
+}
+.divH {
+  height: 80px;
+  width: 100%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
